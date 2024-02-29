@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Test Post"
+date:   2024-02-29 11:44:56 -0500
+categories: test
+---
+
+AHHHHHHH
+
+$3 + 3 = \theta$
+
+$\sum_i^n x_i$
