@@ -69,7 +69,7 @@ plugins:
 
 author:
   name: "Evan Williams"
-  #avatar: "/assets/images/Photo.jpg"
+  avatar: "/assets/images/evan.jpg"
   bio: "Networks are cool"
   location: "Pittsburgh, PA"
   links:
